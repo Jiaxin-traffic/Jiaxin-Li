@@ -6,7 +6,7 @@ I received my master’s degree from the School of Transportation Engineering, C
 
 - Surrogate safety measures for highway interaction risk quantification
 - Crash-influencing factor analysis
-- Traffic characteristic inference under heterogeneous traffic environments
+- TStochastic fundamental diagram under heterogeneous traffic flows
 
 ## 📫 Contact
 Email: ljx2023134060@gmail.com
